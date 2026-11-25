@@ -1,0 +1,8 @@
+Subject: A question about {{Company}}
+
+Hi {{First Name}},
+
+I noticed {{Recent Post}} and wanted to ask a quick question.
+
+Thanks,
+Your Name
